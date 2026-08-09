@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/subasmk/leetcode/tree/master/0078-subsets) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/subasmk/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/subasmk/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1140-stone-game-ii](https://github.com/subasmk/leetcode/tree/master/1140-stone-game-ii) |
@@ -40,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/subasmk/leetcode/tree/master/1140-stone-game-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/subasmk/leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/subasmk/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
