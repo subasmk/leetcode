@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/subasmk/leetcode/tree/master/0242-valid-anagram) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/subasmk/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Math
 |  |
@@ -83,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/subasmk/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/subasmk/leetcode/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/subasmk/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
