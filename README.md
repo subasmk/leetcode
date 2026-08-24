@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/subasmk/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/subasmk/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1140-stone-game-ii](https://github.com/subasmk/leetcode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/subasmk/leetcode/tree/master/1872-stone-game-viii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/subasmk/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/subasmk/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Greedy
@@ -25,31 +26,37 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/subasmk/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/subasmk/leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/subasmk/leetcode/tree/master/1872-stone-game-viii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/subasmk/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/subasmk/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/subasmk/leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/subasmk/leetcode/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/subasmk/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/subasmk/leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/subasmk/leetcode/tree/master/1872-stone-game-viii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/subasmk/leetcode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/subasmk/leetcode/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/subasmk/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/subasmk/leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/subasmk/leetcode/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/subasmk/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/subasmk/leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/subasmk/leetcode/tree/master/1872-stone-game-viii) |
 ## Backtracking
 |  |
 | ------- |
