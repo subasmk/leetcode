@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/subasmk/leetcode/tree/master/0078-subsets) |
+| [0888-fair-candy-swap](https://github.com/subasmk/leetcode/tree/master/0888-fair-candy-swap) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/subasmk/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/subasmk/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1140-stone-game-ii](https://github.com/subasmk/leetcode/tree/master/1140-stone-game-ii) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/subasmk/leetcode/tree/master/0242-valid-anagram) |
+| [0888-fair-candy-swap](https://github.com/subasmk/leetcode/tree/master/0888-fair-candy-swap) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/subasmk/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Math
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/subasmk/leetcode/tree/master/0242-valid-anagram) |
+| [0888-fair-candy-swap](https://github.com/subasmk/leetcode/tree/master/0888-fair-candy-swap) |
 ## String
 |  |
 | ------- |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0888-fair-candy-swap](https://github.com/subasmk/leetcode/tree/master/0888-fair-candy-swap) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/subasmk/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
