@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/subasmk/leetcode/tree/master/1140-stone-game-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/subasmk/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/subasmk/leetcode/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/subasmk/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/subasmk/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/subasmk/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/subasmk/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/subasmk/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/subasmk/leetcode/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/subasmk/leetcode/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/subasmk/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Minimax
 |  |
 | ------- |
@@ -139,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/subasmk/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Matrix
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/subasmk/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/subasmk/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
