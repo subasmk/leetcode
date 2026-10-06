@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/subasmk/leetcode/tree/master/0031-next-permutation) |
 | [0078-subsets](https://github.com/subasmk/leetcode/tree/master/0078-subsets) |
 | [0888-fair-candy-swap](https://github.com/subasmk/leetcode/tree/master/0888-fair-candy-swap) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/subasmk/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/subasmk/leetcode/tree/master/0031-next-permutation) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/subasmk/leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Enumeration
 |  |
