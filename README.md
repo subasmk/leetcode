@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/subasmk/leetcode/tree/master/0078-subsets) |
+| [0301-remove-invalid-parentheses](https://github.com/subasmk/leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/subasmk/leetcode/tree/master/0100-same-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/subasmk/leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Binary Tree
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/subasmk/leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/subasmk/leetcode/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/subasmk/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/subasmk/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/subasmk/leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Binary Search
