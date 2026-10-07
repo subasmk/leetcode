@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/subasmk/leetcode/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/subasmk/leetcode/tree/master/0242-valid-anagram) |
 | [0888-fair-candy-swap](https://github.com/subasmk/leetcode/tree/master/0888-fair-candy-swap) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/subasmk/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -169,4 +170,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/subasmk/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0146-lru-cache](https://github.com/subasmk/leetcode/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/subasmk/leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/subasmk/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
