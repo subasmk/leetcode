@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/reshape-data-concatenate">3064. Reshape Data: Concatenate</a></h2><h3>Easy</h3><hr><pre>
+<h2><a href="https://leetcode.com/problems/reshape-data-pivot/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata">3064. Reshape Data: Concatenate</a></h2><h3>Easy</h3><hr><pre>
 DataFrame <code>df1</code>
 +-------------+--------+
 | Column Name | Type   |
