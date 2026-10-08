@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/subasmk/leetcode/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/subasmk/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/subasmk/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/subasmk/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/subasmk/leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Binary Search
 |  |
@@ -160,12 +161,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/subasmk/leetcode/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/subasmk/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/subasmk/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/subasmk/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/subasmk/leetcode/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/subasmk/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/subasmk/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Linked List
 |  |
 | ------- |
