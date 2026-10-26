@@ -12,4 +12,4 @@ class Solution:
         
         dummy.next = dummy.next.next
 
-        return res.nex
+        return res.nex.
